@@ -1,4 +1,4 @@
-## Seja Bem-vindo ao meu Repositório de Projetos e estudo.
+## Seja Bem-vindo ao meu Repositório de Projetos e estudos.
 -🤓 Autor: Maxswell Sousa Diniz <br>
 -💻 Cursando atualmente Técnico em Informática - Senac Tatuapé - SP <br>
 -🙌 Iniciado em 08/2020 até 03/2022<br>

@@ -51,7 +51,7 @@
 
 </div>
 <p align="center">Quantidade de visita em meu perfil </p>
-<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Maxswell-MSD/count.svg" /></p>
 
                               😁Obrigado volte sempre!!  
 

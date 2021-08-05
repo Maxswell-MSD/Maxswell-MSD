@@ -50,8 +50,10 @@
  
 
 </div>
-<p align="center"> texto que você quiser </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="center">Quantidade de visita em meu perfil </p>
+<p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+
+                              😁Obrigado volte sempre!!  
 
   
 <br>

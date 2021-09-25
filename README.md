@@ -42,6 +42,8 @@
   <img align="center" alt="Rafa-Js" height="25" width="90" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="Rafa-CSS" height="25" width="90" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+ 
 
 
  
@@ -57,7 +59,7 @@
 Redes Sociais para contato:
 <div> 
  <a href="https://www.linkedin.com/in/maxswell-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href=" https://api.whatsapp.com/send?phone=011946742182" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511946742182&text=%20%F0%9F%93%9DPara%20uma%20futura%20entrevista%20-%20%20Qual%20o%20nome%20da%20empresa%20e%20o%20cargo%20da%20vaga%3F%3A%20" target ="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
  
 </div>

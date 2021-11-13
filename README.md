@@ -59,7 +59,7 @@
 Redes Sociais para contato:
 <div> 
  <a href="https://www.linkedin.com/in/maxswell-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5511946742182&text=%20%F0%9F%93%9DPara%20uma%20futura%20entrevista%20-%20%20Qual%20o%20nome%20da%20empresa%20e%20o%20cargo%20da%20vaga%3F%3A%20" target ="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5511946742182&text=Ol%C3%A1%2C%20deixe%20sua%20mensagem%20para%20contato%20profissional." target ="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
  
 </div>

@@ -1,6 +1,5 @@
 ## Seja Bem-vindo ao meu Repositório de Projetos e estudos.
 -🤓 Autor: Maxswell Sousa Diniz <br>
--🙌 Iniciado em 08/2020 até 03/2022<br>
 -👨‍🎓 Assuntos de estudos atualmente - Desenvolvimento Web e Banco de Dados iniciado em 06/2021<br>
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 

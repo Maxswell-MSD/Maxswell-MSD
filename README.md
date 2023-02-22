@@ -1,5 +1,5 @@
 ## Seja Bem-vindo ao meu Repositório de Projetos e estudos.
--🤓 Autor: Maxswell Sousa Diniz 
+-🤓 Autor: Maxswell Sousa Diniz <br>
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
 

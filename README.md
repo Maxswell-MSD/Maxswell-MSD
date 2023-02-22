@@ -1,6 +1,5 @@
 ## Seja Bem-vindo ao meu Repositório de Projetos e estudos.
--🤓 Autor: Maxswell Sousa Diniz <br>
--👨‍🎓 Assuntos de estudos atualmente - FrontEnd,Linguagem SQL e Python <br>
+-🤓 Autor: Maxswell Sousa Diniz 
 -📧 E-mail : maxswellsousadiniz@yahoo.com
 
 

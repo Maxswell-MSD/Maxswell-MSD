@@ -38,8 +38,7 @@
 <img align="center" alt="Rafa-CSS" height="25" width="90" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  <img align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-
-   <img align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=SQL&logoColor=blue">
+   <img align="center" alt="Rafa-python" height="25" width="90" src="https://camo.githubusercontent.com/e80d67f4b621bec6ed40edf58ccde3dc2f9e3d68db3d50feaec72f6ad2fb4737/68747470733a2f2f342e62702e626c6f6773706f742e636f6d2f2d567a315655374a7772744d2f56344547612d48667375492f41414141414141414356672f4c68347674545973554c416e49696e646f6763706b36416a31785956414d665041434c63422f733634302f706c5f73716c5f6c6f676f2e706e67">
  
  
 

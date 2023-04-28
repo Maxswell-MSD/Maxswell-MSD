@@ -57,6 +57,8 @@ Redes Sociais para contato:
 <div> 
  <a href="https://www.linkedin.com/in/maxswell-diniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5511946742182&text=Ol%C3%A1%2C%20deixe%20sua%20mensagem%20para%20contato%20profissional." target ="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/Maxswell-MSD/Meus-dados---CV/blob/main/Maxswell%20Sousa%20Diniz%20-%20CVSP.pdf" target="_blank"><img src="img/CV.png" target="_blank"></a> 
+
 
  
 </div>

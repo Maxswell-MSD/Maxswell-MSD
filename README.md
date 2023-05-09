@@ -21,8 +21,7 @@
  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxswell-MSD&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maxswell-MSD&theme=dark&hide_border=verdadeiro)](https://git.io/streak-stats)
 
 
                                                                                                

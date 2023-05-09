@@ -21,7 +21,7 @@
  
 
 
-[![Naereen's top languages[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxswell-MSD&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxswell-MSD&show_icons=true&theme=radical)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Maxswell-MSD&theme=blue-green)](https://github.com/Maxswell-MSD?tab=repositories)
 
 

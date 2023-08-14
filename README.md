@@ -39,6 +39,7 @@
 <img align="center" alt="Rafa-CSS" height="25" width="90" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  	<img  align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
    <img align="center" alt="Rafa-python" height="25" width="90" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img align="center" alt="Rafa-react" height="25" width="90" src="https://img.shields.io/badge/react-%2300f.svg?style=for-the-badge&logo=react&logoColor=white"/>
  
  
 
